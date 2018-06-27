@@ -1,4 +1,14 @@
 {
-"hai"
+"posts" : [
+  {
+    "id": 1 
+    "title" : "Hello"
+  }
+  ]
+  "posts" : [
+  {
+    "id": 2 
+    "title" : "Bye"
+  }
 
 }
