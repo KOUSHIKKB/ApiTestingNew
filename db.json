@@ -5,10 +5,11 @@
     "title" : "Hello"
   }
   
-  "profile" : 
+  "profile" :[ 
   {
     "id": 2, 
     "title" : "Bye"
   }
 ]
+  ]
 }
